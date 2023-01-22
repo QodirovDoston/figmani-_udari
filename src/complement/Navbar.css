@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section {
+    background-image: url(../img/Group\ 14.png);
+    background-repeat: no-repeat;
+    background-position-y: -60px;
+    background-position-x: 1070px;
+}
+body {
+    background: #EBFFE4;
+    margin-top: 44px;
+}
+.item {
+    font-family: 'Raleway';
+    font-size: 16px;
+    line-height: 19px;
+    color: #051101;
+    opacity: 0.6;
+    margin-top: 10px;
+}
+.item1 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 10px;
+    color: #051101;
+}
+.walk {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 120%;
+    color: #051101;
+}
+.bon {
+    width: 149px;
+    height: 49px;
+    margin-left: 313px;
+    background: #5CBE3A;
+    border-radius: 4px;
+    border: none;
+    color: #ffffff;
+}
+.list {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    padding-left: 30px;
+}
+.bon1 {
+    width: 149px;
+    height: 49px;
+    background: #5CBE3A;
+    border-radius: 4px;
+    border: none;
+    color: #ffffff;
+}
+.des {
+    gap: 30px;
+    align-items: center;
+}
+.bring {
+    margin-top: 120px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 140%;
+    text-transform: uppercase;
+    color: #5CBE3A;
+}
+.now {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #051101;
+    opacity: 0.7;
+}
+.now span {
+    color: #5CBE3A;
+}
+.pos {
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 130%;
+    color: #5CBE3A;
+}
+.bon2 {
+    width: 149px;
+    height: 49px;
+    background: #ffffff;
+    border-radius: 4px;
+    border-color: #99f87a;
+    margin-left: 25px;
+    color: #5CBE3A;
+}
+.hey {
+    margin-top: 44px;
+    margin-bottom: 80px;
+}
+.bozimg {
+    text-align: end;
+    justify-content: end;
+    margin-left: 200px;
+    padding-left: 486px;
+}
+.dis {
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    border-radius: 50%;
+    background: #F5F5F5;
+    border: 1px solid #BEE761;
+    margin-left: 50px;
+}
+.dis1 {
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    border-radius: 50%;
+    background: #F5F5F5;
+    border: 1px solid #BEE761;
+
+    margin-left: 50px;
+}
+.soya {
+    margin-top: 60px;
+}
+
+.follow {
+    margin-left: 80px;
+}
+
+@media (max-width: 575px){
+
+    .container{
+        display: grid;
+    }
+
+
+
+
+
+}
